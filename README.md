@@ -21,7 +21,6 @@
 ### 개발 기간
 
 2023.03.03 ~ 2023.04.10
-<br/>
 
 # 2. **기술 스택**
 
@@ -36,9 +35,14 @@
 
 # 4. 구현 기능
 
-### 로그인 페이지 
-
-
+### 회원가입 페이지
+![회원가입 페이지](https://user-images.githubusercontent.com/113500789/231083483-3acfdbb4-f551-4700-997c-2d3119dc3204.gif)
+### 로그인 페이지
+![로그인 페이지](https://user-images.githubusercontent.com/113500789/231084886-abdac5a5-6b54-4c6b-a106-4f571e280fc4.gif)
+### 비밀번호 변경 페이지
+### 폼 링크 관리 페이지
+### 폼 검색
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/113823957/235394861-24566635-a4f2-49b3-ba76-e7f1929179b1.gif)
 
 # 5. **회고**
 
